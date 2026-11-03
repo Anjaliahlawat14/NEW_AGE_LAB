@@ -2,7 +2,7 @@
 
 This repository contains practical implementations and lab work completed as part of the **New Age Programming Languages** course.
 
-The practicals focus on learning Go programming concepts through simple programs and hands-on experiments.
+The practicals focus on learning Go and F# programming concepts through simple programs and hands-on experiments.
 
 ## Experiments
 
