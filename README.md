@@ -16,7 +16,9 @@ The practicals focus on learning Go programming concepts through simple programs
 | 5 | Pointers and Memory Concepts | `Exp5_Pointers` |
 | 6 | Goroutines and Channels | `Exp6_Goroutines` |
 | 7 | Error Handling and Testing | `Exp7_ErrorTesting` |
-
+| 9 | Marks Percentage and Division Classification | `Exp9_MarksDivision_FSharp` |
+| 9.2 |Prime Number using Recursion | `Exp9_PrimeNumber_FSharp` |
+| 10 | String Processing with Pattern Matching | `Exp10_StringProcessing_FSharp` |
 
 
 ---
