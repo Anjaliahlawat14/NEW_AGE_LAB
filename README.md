@@ -19,6 +19,9 @@ The practicals focus on learning Go and F# programming concepts through simple p
 | 9 | Marks Percentage and Division Classification | `Exp9_MarksDivision_FSharp` |
 | 9.2 |Prime Number using Recursion | `Exp9_PrimeNumber_FSharp` |
 | 10 | String Processing with Pattern Matching | `Exp10_StringProcessing_FSharp` |
+| 12 | Higher-Order Functions (List.map, List.filter, List.fold) – F# | `EXP12_HigherOrder` |
+| 13 | Asynchronous and Parallel Workflows – F# | `EXP13_Async` |
+
 
 
 ---
