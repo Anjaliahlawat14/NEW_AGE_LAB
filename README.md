@@ -21,7 +21,8 @@ The practicals focus on learning Go and F# programming concepts through simple p
 | 10 | String Processing with Pattern Matching | `Exp10_StringProcessing_FSharp` |
 | 12 | Higher-Order Functions (List.map, List.filter, List.fold) – F# | `EXP12_HigherOrder` |
 | 13 | Asynchronous and Parallel Workflows – F# | `EXP13_Async` |
-
+| 14 | Object-Oriented Programming (OOP) – F# | `Exp14_OOP_FSHARP` |
+| 15 | Database CRUD Operations – Relational (SQLite) and NoSQL (MongoDB) – F# | `Exp15_DatabaseCRUD_FSharp` |
 
 
 ---
