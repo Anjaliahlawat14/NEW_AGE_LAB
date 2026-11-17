@@ -23,6 +23,7 @@ The practicals focus on learning Go and F# programming concepts through simple p
 | 13 | Asynchronous and Parallel Workflows – F# | `EXP13_Async` |
 | 14 | Object-Oriented Programming (OOP) – F# | `Exp14_OOP_FSHARP` |
 | 15 | Database CRUD Operations – Relational (SQLite) and NoSQL (MongoDB) – F# | `Exp15_DatabaseCRUD_FSharp` |
-
+| 16 | Inventory Management using Go (Structs, Slices, Goroutines, Channels and Testing) | `Inventory_Management` |
+| 17 | Student Management System using F# (Records, Higher-Order Functions, Pattern Matching and SQLite) | `StudentManagement` |
 
 ---
