@@ -2,7 +2,7 @@
 
 This repository contains practical implementations and lab work completed as part of the **New Age Programming Languages** course.
 
-The practicals focus on learning Go and F# programming concepts through simple programs and hands-on experiments.
+The practicals focus on learning Go, F# AND Clojure programming concepts through simple programs and hands-on experiments.
 
 ## Experiments
 
@@ -24,6 +24,12 @@ The practicals focus on learning Go and F# programming concepts through simple p
 | 14 | Object-Oriented Programming (OOP) – F# | `Exp14_OOP_FSHARP` |
 | 15 | Database CRUD Operations – Relational (SQLite) and NoSQL (MongoDB) – F# | `Exp15_DatabaseCRUD_FSharp` |
 | 16 | Inventory Management using Go (Structs, Slices, Goroutines, Channels and Testing) | `Inventory_Management` |
-| 17 | Student Management System using F# (Records, Higher-Order Functions, Pattern Matching and SQLite) | `StudentManagement` |
+| 16.1 | Student Management System using F# (Records, Higher-Order Functions, Pattern Matching and SQLite) | `StudentManagement` |
+| CLOJURE |
+| 17 | Immutable Data Structures (Lists, Vectors, Maps and Sets)| `EXP17_ImmutableDataStructures` |
+| 18 | Sequence Transformations (Map, Filter, Reduce and Threading) | `EXP18_SequenceTransformations` |
+| 20 | Java Interoperability (Static Methods, ArrayList, HashMap and Collection Conversion) | `EXP20_JavaInteroperability` |
+| 23 | Exception Handling (Try, Catch, Finally and Custom Exceptions) | `EXP23_ExceptionHandling` |
+
 
 ---
