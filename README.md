@@ -8,6 +8,7 @@ The practicals focus on learning Go, F# AND Clojure programming concepts through
 
 | Experiment | Topic | Folder |
 |---|---|---|
+| GO |
 | 1 | Calculator using Go | `EXP1_Calculator` |
 | 1.2 | Calculator | `LAB1_EXP2` |
 | 2 | Custom Packages and Functions | `Exp2_CustomPackage` |
@@ -16,6 +17,8 @@ The practicals focus on learning Go, F# AND Clojure programming concepts through
 | 5 | Pointers and Memory Concepts | `Exp5_Pointers` |
 | 6 | Goroutines and Channels | `Exp6_Goroutines` |
 | 7 | Error Handling and Testing | `Exp7_ErrorTesting` |
+| Assessment | Inventory Management using Go (Structs, Slices, Goroutines, Channels and Testing) | `Inventory_Management` |
+| F# |
 | 9 | Marks Percentage and Division Classification | `Exp9_MarksDivision_FSharp` |
 | 9.2 |Prime Number using Recursion | `Exp9_PrimeNumber_FSharp` |
 | 10 | String Processing with Pattern Matching | `Exp10_StringProcessing_FSharp` |
@@ -23,8 +26,7 @@ The practicals focus on learning Go, F# AND Clojure programming concepts through
 | 13 | Asynchronous and Parallel Workflows – F# | `EXP13_Async` |
 | 14 | Object-Oriented Programming (OOP) – F# | `Exp14_OOP_FSHARP` |
 | 15 | Database CRUD Operations – Relational (SQLite) and NoSQL (MongoDB) – F# | `Exp15_DatabaseCRUD_FSharp` |
-| 16 | Inventory Management using Go (Structs, Slices, Goroutines, Channels and Testing) | `Inventory_Management` |
-| 16.1 | Student Management System using F# (Records, Higher-Order Functions, Pattern Matching and SQLite) | `StudentManagement` |
+| Assessment | Student Management System using F# (Records, Higher-Order Functions, Pattern Matching and SQLite) | `StudentManagement` |
 | CLOJURE |
 | 17 | Immutable Data Structures (Lists, Vectors, Maps and Sets)| `EXP17_ImmutableDataStructures` |
 | 18 | Sequence Transformations (Map, Filter, Reduce and Threading) | `EXP18_SequenceTransformations` |
