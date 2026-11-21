@@ -2,7 +2,7 @@
 
 This repository contains practical implementations and lab work completed as part of the **New Age Programming Languages** course.
 
-The practicals focus on learning Go, F# AND Clojure programming concepts through simple programs and hands-on experiments.
+The practicals focus on learning Go, F#, Clojure and Kotlin programming concepts through simple programs and hands-on experiments.
 
 ## Experiments
 
@@ -32,6 +32,9 @@ The practicals focus on learning Go, F# AND Clojure programming concepts through
 | 18 | Sequence Transformations (Map, Filter, Reduce and Threading) | `EXP18_SequenceTransformations` |
 | 20 | Java Interoperability (Static Methods, ArrayList, HashMap and Collection Conversion) | `EXP20_JavaInteroperability` |
 | 23 | Exception Handling (Try, Catch, Finally and Custom Exceptions) | `EXP23_ExceptionHandling` |
-
+| KOTLIN |
+| 25 | Kotlin Basics (Hello Kotlin, Conditional Statements and Basic Operations) | `EXP25_KotlinBasics` |
+| 23 | Kotlin Functions (Default Arguments, Named Arguments, Vararg and Higher-Order Functions) | `EXP26_KotlinFunctions` |
+| 23 | Student Class (Classes, Constructors, Properties, Member Functions and Access Modifiers) | `EXP27_StudentClass` |
 
 ---
