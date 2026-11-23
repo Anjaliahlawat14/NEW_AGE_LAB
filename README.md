@@ -36,5 +36,7 @@ The practicals focus on learning Go, F#, Clojure and Kotlin programming concepts
 | 25 | Kotlin Basics (Hello Kotlin, Conditional Statements and Basic Operations) | `EXP25_KotlinBasics` |
 | 23 | Kotlin Functions (Default Arguments, Named Arguments, Vararg and Higher-Order Functions) | `EXP26_KotlinFunctions` |
 | 23 | Student Class (Classes, Constructors, Properties, Member Functions and Access Modifiers) | `EXP27_StudentClass` |
+| Assessment | Clojure Data Pipeline (Data Processing, SQLite Database Integration and REST API using Ring) | `EXP28_ClojureDataPipeline` |
+
 
 ---
