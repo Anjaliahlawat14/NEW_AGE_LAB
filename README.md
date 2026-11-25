@@ -32,11 +32,12 @@ The practicals focus on learning Go, F#, Clojure and Kotlin programming concepts
 | 18 | Sequence Transformations (Map, Filter, Reduce and Threading) | `EXP18_SequenceTransformations` |
 | 20 | Java Interoperability (Static Methods, ArrayList, HashMap and Collection Conversion) | `EXP20_JavaInteroperability` |
 | 23 | Exception Handling (Try, Catch, Finally and Custom Exceptions) | `EXP23_ExceptionHandling` |
+| Assessment | Clojure Data Pipeline (Data Processing, SQLite Database Integration and REST API using Ring) | `EXP28_ClojureDataPipeline` |
 | KOTLIN |
 | 25 | Kotlin Basics (Hello Kotlin, Conditional Statements and Basic Operations) | `EXP25_KotlinBasics` |
 | 23 | Kotlin Functions (Default Arguments, Named Arguments, Vararg and Higher-Order Functions) | `EXP26_KotlinFunctions` |
 | 23 | Student Class (Classes, Constructors, Properties, Member Functions and Access Modifiers) | `EXP27_StudentClass` |
-| Assessment | Clojure Data Pipeline (Data Processing, SQLite Database Integration and REST API using Ring) | `EXP28_ClojureDataPipeline` |
+| Assessment | Kotlin Domain Specific Language (DSL) | `EXP29_KotlinDomainDSL` |
 
 
 ---
