@@ -32,12 +32,13 @@ The practicals focus on learning Go, F#, Clojure and Kotlin programming concepts
 | 18 | Sequence Transformations (Map, Filter, Reduce and Threading) | `EXP18_SequenceTransformations` |
 | 20 | Java Interoperability (Static Methods, ArrayList, HashMap and Collection Conversion) | `EXP20_JavaInteroperability` |
 | 23 | Exception Handling (Try, Catch, Finally and Custom Exceptions) | `EXP23_ExceptionHandling` |
-| Assessment | Clojure Data Pipeline (Data Processing, SQLite Database Integration and REST API using Ring) | `EXP28_ClojureDataPipeline` |
+| Assessment | Clojure Data Pipeline (Data Processing, SQLite Database Integration and REST API using Ring) | `ClojureAssessement` |
 | KOTLIN |
 | 25 | Kotlin Basics (Hello Kotlin, Conditional Statements and Basic Operations) | `EXP25_KotlinBasics` |
-| 23 | Kotlin Functions (Default Arguments, Named Arguments, Vararg and Higher-Order Functions) | `EXP26_KotlinFunctions` |
-| 23 | Student Class (Classes, Constructors, Properties, Member Functions and Access Modifiers) | `EXP27_StudentClass` |
-| Assessment | Kotlin Domain Specific Language (DSL) | `EXP29_KotlinDomainDSL` |
+| 26 | Kotlin Functions (Default Arguments, Named Arguments, Vararg and Higher-Order Functions) | `EXP26_KotlinFunctions` |
+| 28 | Null Safety (Nullable Types, Safe Calls, Elvis Operator and Not-Null Assertion) | `EXP28_NullSafety` |
+| 29 | Collections and Functional Transformations (List, Set, Map, Map, Filter, Reduce, Sorting and Grouping) | `EXP29_CollectionsFunctional` |
+| Assessment | Kotlin Domain Specific Language (DSL) | `KotlinAssesement` |
 
 
 ---
